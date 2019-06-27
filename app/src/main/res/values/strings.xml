@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Night Mode Tile</string>
+    <string name="off">Night mode off</string>
+    <string name="on">Night mode on</string>
+    <string name="auto">Night mode auto</string>
+    <string name="function">Toggle night mode</string>
+</resources>
